@@ -1,6 +1,6 @@
 # react-translate-maker
 
-React translation module. Internationalize your great project. This library is part of [translate-maker](https://github.com/CherryProjects/translate-maker).
+React translation module. Internationalize your great project. This library is part of [translate-maker](https://github.com/kairo-x26/translate-maker).
 Star this project on [GitHub][github-url].
 
 [![NPM version][npm-image]][npm-url]
@@ -40,9 +40,9 @@ If you are using react >= 15.4.0 use version >= 0.3.0 otherwise use version < 0.
 - Conditioned translations (Plural, Gender etc...)
 - Filters capitalize, upperCase, lowerCase etc... and custom filters
 - Default translations
-- Integrates with [React](https://github.com/CherryProjects/react-translate-maker) and [Angular](https://github.com/CherryProjects/angular-translate-maker)
-- [Automatic extraction](https://github.com/CherryProjects/babel-plugin-react-translate-maker) of translations from your project
-- For more details and examples click on [translate-maker](https://github.com/CherryProjects/translate-maker)
+- Integrates with [React](https://github.com/kairo-x26/react-translate-maker) and [Angular](https://github.com/CherryProjects/angular-translate-maker)
+- [Automatic extraction](https://github.com/kairo-x26/babel-plugin-react-translate-maker) of translations from your project
+- For more details and examples click on [translate-maker](https://github.com/kairo-x26/translate-maker)
 
 # Support us
 
@@ -574,7 +574,7 @@ The result will be
 
 ### More examples
 
-Please take a look on [translate-maker](https://github.com/CherryProjects/translate-maker)
+Please take a look on [translate-maker](https://github.com/kairo-x26/translate-maker)
 
 ## Roadmap
 
